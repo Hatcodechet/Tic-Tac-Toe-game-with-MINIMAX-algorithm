@@ -1,1 +1,1 @@
-# Hatcodechet-Tic-Tac-Toe-game-with-MINIMAX-algorithm
+# Tic-Tac-Toe-game-with-MINIMAX-algorithm
