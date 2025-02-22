@@ -55,5 +55,3 @@ This project is licensed under the MIT License.
 Developed by Pham Nguyen Viet Tri. Feel free to contribute and improve the game!
 
 ---
-Enjoy playing Tic Tac Toe! 🎉
-
